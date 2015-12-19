@@ -1,7 +1,7 @@
 name: Aprilandpaul
 favicon: null
-layout_spectrum: 0.32648530695587397
-typography_spectrum: 0.7492273468524218
+layout_spectrum: 0.96027
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#d9d9d9'
+    - '#473c2a'
+    - '#8e8d88'
+    - '#8d5645'
   brandStrength: 0.6210168849211186
-  lightness: 0.7820505120325834
-  saturation: 0.4532379596494138
-  rhythmicContrast: 0.12295444938354194
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
